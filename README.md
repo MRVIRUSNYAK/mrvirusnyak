@@ -10,7 +10,7 @@
 </p>
 
 Мои соц сети
-Мой ТГ Канал : 
+ Мой ТГ Канал : 
 <a href="https://t.me/+-NqmPqmN3Gk3ZmYy" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
