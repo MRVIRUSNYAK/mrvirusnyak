@@ -9,10 +9,14 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-Мои соц сети
- Мой ТГ Канал : 
+Мой ТГ Канал : 
 <a href="https://t.me/+-NqmPqmN3Gk3ZmYy" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+Мой ДС сервер :
+<a href="https://discord.gg/mMgXvTmhQR" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 Подписаны на меня:
