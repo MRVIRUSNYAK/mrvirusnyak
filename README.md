@@ -1,6 +1,6 @@
-# **Привет я MrVirusnyak, вайбкодер вопросы?**
+# **Привет, я MrVirusnyak**
 
-Вайкодер по этой хуйне:
+Я обычный вайбкодер которому делать нехуй, чаще всего делаю какую-то хуйню на Python
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
