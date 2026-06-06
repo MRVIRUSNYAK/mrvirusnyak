@@ -1,7 +1,8 @@
 # **Привет, я MrVirusnyak**
 
-Я обычный вайбкодер которому делать нехуй, чаще всего делаю какую-то хуйню на Python
+Я обычный вайбкодер которому делать нехуй
 
+Делаю какую-то хуйню на следующих языках:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
