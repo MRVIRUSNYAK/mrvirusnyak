@@ -7,5 +7,5 @@
 Вайкодер по этой хуйне
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/MRVIRUSNYAK?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/MRVIRUSNYAK?style=flat-square&logo=github&label=FOLLOWERS&color=181717" />
 </p>
